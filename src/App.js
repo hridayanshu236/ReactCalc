@@ -2,14 +2,14 @@ import { useReducer } from "react";
 import "./style.css"
 
 function reducer(state, action){
-  
+
 }
 function App() {
   const[state, dispatch] = useReducer(reducer)
   return(
     <div className="calculator-grid">
       <div className="output">
-        <div className="previous-oeprand"></div>
+        <div className="previous-operand"></div>
           <div className="current-operand"></div> 
       </div>
       <button className="span-two">AC</button>
