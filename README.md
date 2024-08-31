@@ -10,6 +10,9 @@ This is a simple calculator application built with React using the `useReducer` 
 - **Evaluate Function**: Calculate the result of the current operation.
 - **Responsive Design**: The calculator adapts to different screen sizes.
 
+## Live Demo
+You can view the live application here: [ReactCalc](https://react-calc-zeta.vercel.app/)
+
 ## Installation
 
 1. Clone the repository:
